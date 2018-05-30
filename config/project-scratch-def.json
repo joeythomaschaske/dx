@@ -1,0 +1,7 @@
+{
+    "orgName": "joe_t Company",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
